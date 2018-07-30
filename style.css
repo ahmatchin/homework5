@@ -1,0 +1,105 @@
+.content__title {
+font-family:arial;
+font-size:30px;
+text-align:center;
+border: 3px solid red;
+}
+.content__stati	{
+font-family:arial;
+font-size:30px;
+color: red;
+}
+.content__katalog {
+font-family:arial;
+font-size:30px;
+color: fuchsia;
+}
+.content__galereya{
+font-family:arial;
+font-size:30px;
+color: green;	
+}
+.content__registraciya {
+font-family:arial;
+font-size:30px;
+color: blue;	
+}
+.content__kontakti {
+font-family:arial;
+font-size:30px;
+color: gold;	
+}
+.content__poisk {
+font-family:arial;
+font-size:15px;
+color: brown;
+}
+.content__search.content__search--Искать {
+background-color: green;
+} 
+.content__katalog1 {
+font-family:arial;
+font-size:30px;
+color: blue;
+}
+.content__naglavnuju {
+font-family:arial;
+font-size:22px;
+color: deepskyblue;
+}
+.content__cveti {
+font-family:arial;
+font-size:26px;
+color: Aquamarine;
+	}
+.content__cveti2 {
+	font-family:arial;
+font-size:20px;
+color: Aquamarine;}
+.content__igrushki {
+font-family:arial;
+font-size:26px;
+color: aqua;
+}
+.content__igrushki2 {
+	font-family:arial;
+font-size:20px;
+color: aqua;
+}
+.content__knigi{
+	font-family:arial;
+font-size:26px;
+color: deeppink;
+}
+.content__knigi2 {
+	font-family:arial;
+font-size:20px;
+color: deeppink;
+}
+.content__fon {
+	background-image: url(fon73.jpg);
+}
+.content__p1 {font-size: 22px;}
+.content__registration.content__registration--Зарегистрироваться {
+	background-color: green;
+}
+.content__clearform.content__clearform--Очистить {
+	background-color: red;
+}
+.wrapper {position: relative;}
+.box {
+	border-style: double;
+	border-width: 3px 7px 7px 4px;
+	padding: 7px;
+	text-align: center;
+	display: inline-block;
+width: 400px;
+position: absolute; 
+left: 50%;
+margin-left: -200px;
+}
+.content__otpravit.content__otpravit--otpravit1 {
+background-color: green;
+}
+.content__komment{
+	font-size:  20px;}
